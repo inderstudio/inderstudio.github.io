@@ -1,6 +1,6 @@
-# iphobbes.github.io
+# inderstudio.github.io
 
-Landing page for [`https://iphobbes.github.io/`](https://iphobbes.github.io/).
+Landing page for [`https://inderstudio.github.io/`](https://inderstudio.github.io/).
 
 A minimal hub linking to small, no‑sign‑in web tools, including:
 
